@@ -8,5 +8,8 @@ namespace GitHub_Collaboration_Practice
 {
     internal class Student036
     {
+
+        public static void HelloWorld()
+        { System.Console.WriteLine("Hello World");
+        }
     }
-}
